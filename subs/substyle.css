@@ -1,0 +1,30 @@
+@charset "utf-8";
+body{background: #E5E5E5}
+#topic{position:absolute; top:33px; left: 320px; font-size:30px; font-weight: bold}
+#subtitle {text-align: center; font-size: 26px; color: #000000; font-family: "微软雅黑"; font-weight: bold}
+.button-link1 {display: inline-block; padding: 10px 20px; background-color: #6CA6CD; color: #01008C; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; position: absolute; top: 400px; left: 280px; font-size: 30px}
+.button-link1:hover {background-color: #87CEEB;}
+.button-link2 {display: inline-block; padding: 10px 20px; background-color: #98FB98; color: #01008C; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; position: absolute; top: 650px; left: 300px; font-size: 30px}
+.button-link2:hover {background-color: #ADFF2F;}
+.button-link3 {display: inline-block; padding: 10px 20px; background-color: #FFB6C1; color: #01008C; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; position: absolute; top: 350px; left: 720px; font-size: 30px}
+.button-link3:hover {background-color: #FFC0CB;}
+.button-link4 {display: inline-block; padding: 10px 20px; background-color: #FFE4B5; color: #01008C; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; position: absolute; top: 550px; left: 650px; font-size: 30px}
+.button-link4:hover {background-color: #FFDAB9;}
+.button-link5 {display: inline-block; padding: 10px 20px; background-color: #AFEEEE; color: #01008C; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; position: absolute; top: 680px; left:1000px; font-size: 30px}
+.button-link5:hover {background-color: #E0FFFF;}
+.button-link6 {display: inline-block; padding: 10px 20px; background-color: #D8BFD8; color: #01008C; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; position: absolute; top: 310px; left:1200px; font-size: 30px}
+.button-link6:hover {background-color: #E6E6FA;}
+.button-link7 {display: inline-block; padding: 10px 20px; background-color: #6CA6CD; color: #01008C; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; position: absolute; top: 480px; left:1000px; font-size: 30px}
+.button-link7:hover {background-color: #87CEEB;}
+ul.navbar {list-style-type: none; margin: 0; padding-left: 200px; overflow:hidden; background-color: #0022A4;}
+ul.navbar li {float: left; margin-right: 150px}        
+ul.navbar li a {display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 19px;}
+ul.navbar li a:hover {background-color: #0093FF}
+#text{position:absolute; top:160px; left: 10px; right: 10px; font-size:25px; font-family: "华文楷体"; font-weight: bold; text-indent: 20em; background-image: url("images/background.png"); background-size: cover; background-repeat:no-repeat}
+.bar{background-color: #0022A4; height: 100px; width: 99%; position: absolute; top: 850px;}
+.link {color: white; text-decoration: none;}
+.link:hover {text-decoration: none;}
+.container {position: relative;}
+.table { position: absolute; top: 20px; left: 350px; width: 50%; border-collapse: collapse;}
+.table td { padding: 10px; text-align: center; border: 1px solid #e0e0e0; background-color: #f0f5f5;}
+.video {position: absolute; top: 200px; left: 346px; width: 720px; height: 405px;}
